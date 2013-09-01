@@ -1,4 +1,4 @@
 #lang racket/base
 
 (provide number)
-(define-syntax-rule (number) 1)
+(define-syntax-rule (number) 10)
